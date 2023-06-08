@@ -1,0 +1,6 @@
+IDENTIFIER      = a
+OPERATOR        = =
+IDENTIFIER      = b
+OPERATOR        = +
+IDENTIFIER      = c
+SEPARATOR       = ;
